@@ -1,3 +1,4 @@
 env:
   matrix:
     - foo=bar
+    - secure: "hCJ6Tp9JEfMGwi9KQ+KkS6YtApxkQFYEdwAoPs8V4xYOTGf5tatcAm4NAFpM\nEl5raO0DgbFTets7maYwtTYZuwgik2sWHXMMdlet862oaTcP6+F5dxnPD7Gz\nVKpRw81RXOmE7RhC7jkTl1Q9Sr456/qp2DVhdNz4Ae13MeK+e3Y="
